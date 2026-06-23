@@ -29,9 +29,7 @@ Understanding customer behavior is crucial for making informed business decision
 
 🔹 **Power BI** – Interactive Dashboard & Visualization
 
-🔹 **Pandas & NumPy** – Data Manipulation
-
-🔹 **Matplotlib & Seaborn** – Data Visualization
+🔹 **Pandas** – Data Manipulation
 
 ---
 
